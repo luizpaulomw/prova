@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - locadora",
+            "request": "launch",
+            "mainClass": "locadora",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Principal",
+            "request": "launch",
+            "mainClass": "Principal",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MnuPrincipal",
+            "request": "launch",
+            "mainClass": "MnuPrincipal",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Cachorro",
+            "request": "launch",
+            "mainClass": "Cachorro",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestaCaes",
+            "request": "launch",
+            "mainClass": "TestaCaes",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrototypeExample",
+            "request": "launch",
+            "mainClass": "PrototypeExample",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingletonPatternEx",
+            "request": "launch",
+            "mainClass": "SingletonPatternEx",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - teste20",
+            "request": "launch",
+            "mainClass": "teste20",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "prova_3255e1b6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "prova_3255e1b6"
+        }
+    ]
+}
